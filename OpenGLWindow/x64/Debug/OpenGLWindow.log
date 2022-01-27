@@ -1,0 +1,26 @@
+﻿  window_main.cpp
+C:\Users\tahmi\VS Projects\repos\OpenGL\Materials\OpenGLWindow\shader.h(159,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Materials\OpenGLWindow\window_main.cpp(165,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Materials\OpenGLWindow\window_main.cpp(189,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tahmi\VS Projects\repos\OpenGL\Materials\OpenGLWindow\window_main.cpp(190,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tahmi\VS Projects\repos\OpenGL\Materials\OpenGLWindow\window_main.cpp(191,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tahmi\VS Projects\repos\OpenGL\Materials\OpenGLWindow\window_main.cpp(283,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Materials\OpenGLWindow\window_main.cpp(284,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Materials\OpenGLWindow\window_main.cpp(288,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Materials\OpenGLWindow\window_main.cpp(289,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Materials\OpenGLWindow\window_main.cpp(291,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Materials\OpenGLWindow\window_main.cpp(292,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Materials\OpenGLWindow\window_main.cpp(301,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLWindow.vcxproj -> C:\Users\tahmi\VS Projects\repos\OpenGL\Materials\x64\Debug\OpenGLWindow.exe
